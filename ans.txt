@@ -16,4 +16,4 @@ F.vncserver
 G.3389
 
 H.(1)ssh
-  (2)ssh -v -L 4433:localhost:4433 myserverip@server
+  (2)ssh -v -L 4433:localhost:7777 myserverip@server
