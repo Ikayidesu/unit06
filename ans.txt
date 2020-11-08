@@ -1,0 +1,19 @@
+A.(1)公鑰
+  (2)私鑰
+  (3)私鑰
+  
+B.known_hosts 
+
+C.(1)AES
+  (2)/proc/cpuinfo
+  
+D.xauth
+
+E.passwd
+
+F.vncserver 
+
+G.3389
+
+H.(1)ssh
+  (2)ssh -v -L 4433:localhost:4433 myserverip@server
